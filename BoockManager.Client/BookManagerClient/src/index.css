@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@700;800;900&display=swap');
+
+@import "tailwindcss";
+
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui;
+  --font-display: 'Outfit', sans-serif;
+}
+
+/* 4. Plugins (DaisyUI) */
+@plugin "daisyui" {
+  themes: light --default;
+}
+
+/* 5. Tus estilos globales */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #f8fafc;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, .font-display {
+  font-family: var(--font-display);
+}

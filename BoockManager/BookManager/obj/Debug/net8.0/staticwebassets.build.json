@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "vkSwTvmv0OFgAdoutUt/XwCsPqUvcYSfxGz80rML4Tg=",
+  "Source": "BookManager",
+  "BasePath": "_content/BookManager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookManager/wwwroot",
+      "Source": "BookManager",
+      "ContentRoot": "/Users/mac/Documents/GitHub/BoockManager/BookManager/wwwroot/",
+      "BasePath": "_content/BookManager",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/mac/Documents/GitHub/BoockManager/BookManager/wwwroot/images/books/d3d989a0-0dc2-4dcc-8a85-8cb4bdfec101.jpg",
+      "SourceId": "BookManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mac/Documents/GitHub/BoockManager/BookManager/wwwroot/",
+      "BasePath": "_content/BookManager",
+      "RelativePath": "images/books/d3d989a0-0dc2-4dcc-8a85-8cb4bdfec101.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/books/d3d989a0-0dc2-4dcc-8a85-8cb4bdfec101.jpg"
+    },
+    {
+      "Identity": "/Users/mac/Documents/GitHub/BoockManager/BookManager/wwwroot/images/books/ee9d7777-e47a-4a80-b658-56cbfdc1023c.jpg",
+      "SourceId": "BookManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mac/Documents/GitHub/BoockManager/BookManager/wwwroot/",
+      "BasePath": "_content/BookManager",
+      "RelativePath": "images/books/ee9d7777-e47a-4a80-b658-56cbfdc1023c.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/books/ee9d7777-e47a-4a80-b658-56cbfdc1023c.jpg"
+    },
+    {
+      "Identity": "/Users/mac/Documents/GitHub/BoockManager/BookManager/wwwroot/images/books/f8ef17a8-f77f-45e0-bff2-817c2d243e49.jpg",
+      "SourceId": "BookManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mac/Documents/GitHub/BoockManager/BookManager/wwwroot/",
+      "BasePath": "_content/BookManager",
+      "RelativePath": "images/books/f8ef17a8-f77f-45e0-bff2-817c2d243e49.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/books/f8ef17a8-f77f-45e0-bff2-817c2d243e49.jpg"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mac/Documents/GitHub/BoockManager/BookManager/wwwroot/images/books/d3d989a0-0dc2-4dcc-8a85-8cb4bdfec101.jpg",
+      "PackagePath": "staticwebassets/images/books/d3d989a0-0dc2-4dcc-8a85-8cb4bdfec101.jpg"
+    },
+    {
+      "Id": "/Users/mac/Documents/GitHub/BoockManager/BookManager/wwwroot/images/books/ee9d7777-e47a-4a80-b658-56cbfdc1023c.jpg",
+      "PackagePath": "staticwebassets/images/books/ee9d7777-e47a-4a80-b658-56cbfdc1023c.jpg"
+    },
+    {
+      "Id": "/Users/mac/Documents/GitHub/BoockManager/BookManager/wwwroot/images/books/f8ef17a8-f77f-45e0-bff2-817c2d243e49.jpg",
+      "PackagePath": "staticwebassets/images/books/f8ef17a8-f77f-45e0-bff2-817c2d243e49.jpg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BookManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BookManager.props",
+      "PackagePath": "build\\BookManager.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BookManager.props",
+      "PackagePath": "buildMultiTargeting\\BookManager.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BookManager.props",
+      "PackagePath": "buildTransitive\\BookManager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
